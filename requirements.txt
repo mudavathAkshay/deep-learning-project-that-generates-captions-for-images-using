@@ -1,0 +1,8 @@
+numpy
+Pillow
+tensorflow
+transformers
+streamlit
+nltk
+googletrans==4.0.0-rc1
+opencv-python
